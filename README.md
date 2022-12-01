@@ -44,7 +44,7 @@ Here's why:
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This platform build with php framework codeigniter and bootstrap,jquery and admin template for front-end 
 
 * [![php][php]][php-url]
 * ![ci][ci]
