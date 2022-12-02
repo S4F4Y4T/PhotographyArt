@@ -62,7 +62,7 @@ By following the instructions you can run the script on your machine
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/S4F4Y4T/photographer-rent.git
+   git clone https://github.com/S4F4Y4T/PhotographyArt.git
    ```
 2. Create and import the photgraphyArt.sql into mysql DB
 
