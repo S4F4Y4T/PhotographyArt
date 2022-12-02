@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3 align="center">Photographer Rent</h3>
+  <h3 align="center">PhotographyArt</h3>
   <p>Hire a photographer</p>
 </div>
 
