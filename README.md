@@ -35,11 +35,6 @@
 
 This is a platform where photographer and visitor can create and manage their profile where visitor will be able to book a photographer
 
-Here's why:
-* User friendly
-* Responsive
-* Community
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
